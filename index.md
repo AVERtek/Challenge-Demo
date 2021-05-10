@@ -83,7 +83,7 @@
    </script>
 
 
-<model-viewer src="Models/scene.gltf" camera-controls camera-orbit="0deg 90deg 100%" autoplay animation-name="" id="reveal" id="model-viewer" loading="eager" ar ar-modes="scene-viewer webxr quick-look" ios-src="Models/Metal_Case.usdz" alt="Challenge Demo" auto-rotate-delay="0" ar-scale="auto" camera-controls alt="Challenge Demo" style="width: 95%; height: 500px" ><button slot="ar-button" style="background-color: white; border-radius: 8px; border: 1 px solid black; position: absolute; top: 20px; right: 20px; ">
+<model-viewer src="Models/scene.gltf" camera-controls autoplay animation-name="" id="reveal" id="model-viewer" loading="eager" ar ar-modes="scene-viewer webxr quick-look" ios-src="Models/Metal_Case.usdz" alt="Challenge Demo" auto-rotate-delay="0" ar-scale="auto" camera-controls alt="Challenge Demo" style="width: 95%; height: 500px" ><button slot="ar-button" style="background-color: white; border-radius: 8px; border: 1 px solid black; position: absolute; top: 20px; right: 20px; ">
       👋 AR Click Here
   </button>
 </model-viewer>
