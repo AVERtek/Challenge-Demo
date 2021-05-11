@@ -1,6 +1,6 @@
 # DANCE THE "7th INNING STRETCH"! <!-- Loads <model-viewer> for old browsers like IE11: -->
 <p align="center">
-<img src="images/XR-NOW.png" width=200>
+<img src="images/XR-NOW.png" width=100>
 </p>
 <h2 style="text-align: center;" markdown="1"> On Mobile: Press "AR" Button; To Video Press/Hold Camera Button; Then Share!</h2> <!-- Loads <model-viewer> for old browsers like IE11: -->
 <script nomodule="" src="https://unpkg.com/@google/model-viewer/dist/model-viewer.min.js">
