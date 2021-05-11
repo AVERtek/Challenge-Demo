@@ -2,7 +2,7 @@
 <p align="center">
 <img src="images/LogoPedroAdao2.png" width=200>
 </p>
-<h2 style="text-align: center;" markdown="1"> Mobile: Press "AR" Button, Walk the Vault; Scale; Video: Press/Hold Camera Button; Then Share!</h2> <!-- Loads <model-viewer> for old browsers like IE11: -->
+<h2 style="text-align: center;" markdown="1"> Mobile: Press "AR" Button, Walk the Vault; Scale; Video: Press/Hold Camera Button; Share!</h2> <!-- Loads <model-viewer> for old browsers like IE11: -->
 <script nomodule="" src="https://unpkg.com/@google/model-viewer/dist/model-viewer.min.js">
   </script>
 
