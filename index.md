@@ -1,4 +1,4 @@
-# DANCE THE "7th INNING STRETCH"! <!-- Loads <model-viewer> for old browsers like IE11: -->
+# UNLOCK THE "100X CHALLENGE" VAULT OF SUCCESS! <!-- Loads <model-viewer> for old browsers like IE11: -->
 <p align="center">
 <img src="images/XR-NOW.png" width=100>
 </p>
@@ -91,7 +91,7 @@
 <section class="attribution">
         <div>
           <span>
-            <h1 style="text-align: center;" markdown="1">Play Song</h1>
+            <h1 style="text-align: center;" markdown="1">Listen to Pedro's Message</h1>
               <p align="center">
               <span>
               <audio controls autoplay loop id="sound">
