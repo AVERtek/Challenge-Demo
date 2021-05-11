@@ -1,4 +1,4 @@
-# UNLOCK THE "100X CHALLENGE" VAULT OF SUCCESS! <!-- Loads <model-viewer> for old browsers like IE11: -->
+# UNLOCK "100X CHALLENGE" SECRET! <!-- Loads <model-viewer> for old browsers like IE11: -->
 <p align="center">
 <img src="images/XR-NOW.png" width=100>
 </p>
