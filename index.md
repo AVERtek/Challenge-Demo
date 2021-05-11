@@ -1,4 +1,4 @@
-# THE SECRET OF THE "100X CHALLENGE"! <!-- Loads <model-viewer> for old browsers like IE11: -->
+# UNLOCK THE VAULT OF THE SECRET "100X CHALLENGE"! <!-- Loads <model-viewer> for old browsers like IE11: -->
 <p align="center">
 <img src="images/XR-NOW.png" width=100>
 </p>
