@@ -1,6 +1,6 @@
 # DANCE THE "7th INNING STRETCH"! <!-- Loads <model-viewer> for old browsers like IE11: -->
 <p align="center">
-<img src="images/Dodgers 1.jfif" width=200>
+<img src="images/XR-NOW.png" width=200>
 </p>
 <h2 style="text-align: center;" markdown="1"> On Mobile: Press "AR" Button; To Video Press/Hold Camera Button; Then Share!</h2> <!-- Loads <model-viewer> for old browsers like IE11: -->
 <script nomodule="" src="https://unpkg.com/@google/model-viewer/dist/model-viewer.min.js">
@@ -83,7 +83,7 @@
    </script>
 
 
-<model-viewer loading="eager" id="paused-change-demo" camera-controls camera-orbit="0deg 0deg 5%" autoplay animation-name="Case_Armature|Case_ArmatureAction" ar shadow-intensity="1" src="Models/scene.gltf" id="model-viewer" ar="" ar-modes="scene-viewer webxr quick-look" ios-src="Metal_Case.usdz" alt="Challenge Demo" auto-rotate-delay="0" ar-scale="auto" camera-controls alt="Challenge Demo" style="width: 95%; height: 500px" ><button slot="ar-button" style="background-color: white; border-radius: 8px; border: 1 px solid black; position: absolute; top: 20px; right: 20px; ">
+<model-viewer loading="eager" id="paused-change-demo" camera-controls camera-orbit="0deg 0deg 100%" autoplay animation-name="Case_Armature|Case_ArmatureAction" ar shadow-intensity="1" src="Models/scene.gltf" id="model-viewer" ar="" ar-modes="scene-viewer webxr quick-look" ios-src="Metal_Case.usdz" alt="Challenge Demo" auto-rotate-delay="0" ar-scale="auto" style="width: 95%; height: 500px" ><button slot="ar-button" style="background-color: white; border-radius: 8px; border: 1 px solid black; position: absolute; top: 20px; right: 20px; ">
       👋 AR Click Here
   </button>
 </model-viewer>
