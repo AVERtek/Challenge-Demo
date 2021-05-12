@@ -2,7 +2,7 @@
 logo1: "images/Company Here.jpg? raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   <h1 style="text-align: center;" markdown="1"><b>CRUSH IT</h1></b></a> 
-  <h1 style="text-align: center;" markdown="1"></b><a href="https://www.crushitwithchallenges.com/join-challenges23" onclick="getOutboundLink('https://www.crushitwithchallenges.com/join-challenges23'); return false;"<b> WITH CHALLENGES</h1></b></a> 
+  <h1 style="text-align: center;" markdown="1"></b><a href="https://100x.zendesk.com/hc/en-us/articles/360058136593-What-Is-A-Challenge-" onclick="getOutboundLink('https://100x.zendesk.com/hc/en-us/articles/360058136593-What-Is-A-Challenge-'); return false;"<b> WITH CHALLENGES</h1></b></a> 
   <br><br>
   <h2 style="text-align: center;" markdown="1"><b>WHO</b><a href="https://pedroadao.com/" onclick="getOutboundLink('https://pedroadao.com/'); return false;"<b> WINS?</b><h/2></a>
   <br><br> 
