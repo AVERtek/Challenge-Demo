@@ -2,7 +2,7 @@
 <p align="center">
 <img src="images/LogoPedroAdao2.png" width=200>
 </p>
-<h2 style="text-align: center;" markdown="1"> Mobile: Press "AR" Button, Walk the Vault; Scale; Video: Press/Hold Camera Button; Share!</h2> <!-- Loads <model-viewer> for old browsers like IE11: -->
+<h2 style="text-align: center;" markdown="1"> On Mobile Press "AR" To Walk the Vault; Scale; To Video Press/Hold Button & Share!</h2> <!-- Loads <model-viewer> for old browsers like IE11: -->
 <script nomodule="" src="https://unpkg.com/@google/model-viewer/dist/model-viewer.min.js">
   </script>
 
@@ -83,7 +83,11 @@
    </script>
 
 
+<<<<<<< HEAD
 <model-viewer loading="eager" id="reveal" camera-controls camera-orbit="0deg 90deg 75%" autoplay animation-name="Take 001" ar shadow-intensity="1" src="Models/scene.gltf" id="model-viewer" ar="" ar-modes="scene-viewer webxr quick-look" ios-src="Models/Bank_Vault.reality" alt="Challenge Demo" ar-scale="auto" style="width: 95%; height: 400px" ><button slot="ar-button" style="background-color: white; border-radius: 8px; border: 1 px solid black; position: absolute; top: 20px; right: 20px; ">
+=======
+<model-viewer loading="eager" id="reveal" camera-controls camera-orbit="0deg 90deg 75%" autoplay animation-name="Take 001" ar shadow-intensity="1" src="Models/scene.gltf" id="model-viewer" ar="" ar-modes="scene-viewer webxr quick-look" ios-src="Bank_Vault.usdz" alt="Challenge Demo" auto-rotate-delay="0" ar-scale="auto" style="width: 95%; height: 400px" ><button slot="ar-button" style="background-color: white; border-radius: 8px; border: 1 px solid black; position: absolute; top: 20px; right: 20px; ">
+>>>>>>> 1f9d12ff0326618a00c23e6c58de32d1b553957f
       👋 AR Click Here
   </button>
 </model-viewer>
